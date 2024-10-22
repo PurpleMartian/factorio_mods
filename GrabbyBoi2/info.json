@@ -1,0 +1,11 @@
+{
+    "name": "GrabbyBoi2",
+    "version": "1.0.1",
+    "title": "Grabby Boi 2",
+    "author": "ApePmaN",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 0.18"],
+    "description": "This mod is an updated version of 'Grabby Boy' by now deleted_5e1a120decf5"
+}
